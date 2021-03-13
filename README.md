@@ -1,0 +1,2 @@
+# BinanceValidator
+All good
